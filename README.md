@@ -13,6 +13,7 @@ The objective of this project is to convert raw business data into interactive, 
 * Identify patterns and anomalies in business operations
 
 ## Features
+
 ### Sales & Revenue Analysis
 * Track total revenue by month, quarter, and year
 
@@ -20,20 +21,20 @@ The objective of this project is to convert raw business data into interactive, 
 
 * Trend analysis to forecast future performance
 
-## Customer Insights
+### Customer Insights
 * Customer demographics and segmentation
 
 * Retention vs new acquisition rates
 
 * High-value vs low-value customers
 
-## Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 * Dynamic cards showing Revenue, Profit, Cost, Growth %, etc.
 
 * Alerts and color-coded metrics for thresholds
 
-## Interactive Visuals
+### Interactive Visuals
 * Filters/slicers for region, date range, product type, etc.
 
 * Drill-down capabilities to go from overview to transaction-level detail
