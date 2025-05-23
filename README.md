@@ -39,3 +39,71 @@ The objective of this project is to convert raw business data into interactive, 
 * Drill-down capabilities to go from overview to transaction-level detail
 
 * Visual types include bar charts, line graphs, pie charts, maps, and gauges
+
+## Technologies Used
+* Power BI Desktop
+
+* DAX (Data Analysis Expressions)
+
+* Power Query (M Language)
+
+* Excel / SQL / CSV as data sources (adjust as needed)
+
+## Use Cases
+* This dashboard can be adapted for use by:
+
+* Sales and marketing teams to track performance
+
+* Customer relationship managers to analyze retention
+
+* Finance teams for cost and revenue insights
+
+* Executives for high-level performance monitoring
+
+## Acknowledgements
+Special thanks to Zephyr Technologies for providing the business context and allowing the use of their data (mock or real) for analytical purposes.
+
+## How to Run the Dashboard Locally
+### Prerequisites
+* Download and install the latest version of Power BI Desktop
+
+## Steps
+1.Clone the Repository
+
+```bash
+
+git clone https://github.com/pallavi544/Powerbi-dashbord-1.git
+
+```
+
+2.Navigate to the Folder
+
+```bash
+
+cd Powerbi-dashbord-1
+
+```
+
+4.Open the Power BI File
+
+* Open ZephyrDashboard.pbix using Power BI Desktop.
+
+
+4.Connect to Your Data Source
+
+* If prompted, update file paths or database credentials via:
+
+* Home > Transform Data > Data source settings
+
+* If the project uses sample data embedded, you can skip this step.
+
+5.Refresh the Dataset
+
+Click Home > Refresh to load the latest data.
+
+
+
+
+
+
+
