@@ -102,6 +102,10 @@ cd Powerbi-dashbord-1
 
 * Click Home > Refresh to load the latest data.
 
+### 🔗 View the Dashboard Report
+
+ **[Click here to open the Power BI Dashboard (PDF)](https://github.com/pallavi544/Powerbi-dashbord-1/blob/main/Power%20BI%20projects%201.pdf)
+
 
 
 
