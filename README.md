@@ -13,7 +13,7 @@ The objective of this project is to convert raw business data into interactive, 
 * Identify patterns and anomalies in business operations
 
 ## Features
-## Sales & Revenue Analysis
+### Sales & Revenue Analysis
 * Track total revenue by month, quarter, and year
 
 * Sales breakdown by product category, region, and salesperson
