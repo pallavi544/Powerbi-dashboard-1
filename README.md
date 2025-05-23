@@ -100,7 +100,7 @@ cd Powerbi-dashbord-1
 
 5.Refresh the Dataset
 
-Click Home > Refresh to load the latest data.
+* Click Home > Refresh to load the latest data.
 
 
 
