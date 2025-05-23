@@ -64,43 +64,14 @@ The objective of this project is to convert raw business data into interactive, 
 ## Acknowledgements
 Special thanks to Zephyr Technologies for providing the business context and allowing the use of their data (mock or real) for analytical purposes.
 
-## How to Run the Dashboard Locally
-### Prerequisites
-* Download and install the latest version of Power BI Desktop
+## Getting Started
+To explore the dashboard:
 
-## Steps
-1.Clone the Repository
+1.Download the Power BI projects 1.pdf file from this repository.
 
-```bash
+2.Review the documentation to understand the data insights and visualizations presented.
 
-git clone https://github.com/pallavi544/Powerbi-dashbord-1.git
-
-```
-
-2.Navigate to the Folder
-
-```bash
-
-cd Powerbi-dashbord-1
-
-```
-
-4.Open the Power BI File
-
-* Open ZephyrDashboard.pbix using Power BI Desktop.
-
-
-4.Connect to Your Data Source
-
-* If prompted, update file paths or database credentials via:
-
-* Home > Transform Data > Data source settings
-
-* If the project uses sample data embedded, you can skip this step.
-
-5.Refresh the Dataset
-
-* Click Home > Refresh to load the latest data.
+3.If applicable, open the associated Power BI (.pbix) file in Power BI Desktop to interact with the dashboard.
 
 ### 🔗 View the Dashboard Report
 
