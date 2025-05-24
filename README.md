@@ -106,7 +106,7 @@ This section provides an in-depth look at course sales, marketing channels, enro
 - Real-time decision support through slicers and filters
 
 ---
-## 💡 Key Takeaways
+##  Key Takeaways
 
 - Bridging the gap between raw data and strategic insights using data visualization
 - Deepened expertise in HR and sales analytics using Power BI
@@ -123,13 +123,13 @@ To explore the dashboard:
 
 3.If applicable, open the associated Power BI (.pbix) file in Power BI Desktop to interact with the dashboard.
 
-### 🔗 View the Dashboard Report
+###  View the Dashboard Report
 
  **[Click here to open the Power BI Dashboard (PDF)](https://github.com/pallavi544/Powerbi-dashbord-1/blob/main/Power%20BI%20projects%201.pdf)**
 
 ---
 
-## 📎 Use Case Scenarios
+##  Use Case Scenarios
 
 - **HR Department:** Analyze employee satisfaction, salary equity, and training ROI  
 - **Sales Team:** Monitor course performance, referral success, and revenue generation  
@@ -137,7 +137,7 @@ To explore the dashboard:
 
 ---
 
-## 🏷️ Tags
+##  Tags
 
 `#PowerBI` `#HRAnalytics` `#SalesDashboard` `#DataAnalytics` `#BusinessIntelligence` `#DAX` `#DataVisualization` `#ZephyrTechnologies` `#InteractiveReports` `#BIProject`
 
